@@ -5,8 +5,8 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Research"
+    url: https://scholar.google.com/citations?hl=en&user=oVygx30AAAAJ
 
   #- title: "Projects"
   #  url: /projects/    
@@ -21,7 +21,7 @@ main:
   #  url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/Al_Tamimi_CV.pdf
     
   #- title: "Guide"
   #  url: /markdown/
