@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-UK"
-title                    : "Dr Abdel-Karim Al-Tamimi's Homepage"
+title                    : "Dr Abdel-Karim Al-Tamimi"
 title_separator          : "-"
 name                     : &name "Abdel-Karim Al-Tamimi"
 description              : &description " Lead Researcher | Consultant | Expert in Digital Teaching and Learning | Entrepreneur "
@@ -21,7 +21,7 @@ repository               : "A-Al-Tamimi/a-al-tamimi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Abdel-Karim Al-Tamimi.png"
   name             : "ABDEL-KARIM AL-TAMIMI"
   pronouns         : # example: "she/her"  
   bio              : "Abdel-Karim Al-Tamimi is a Senior Lecturer of Computer Science and Machine Learning at Sheffield Hallam University. He leads the Conversational AI Research Cluster (CAIRC) and is affiliated with the Advanced Wellbeing Research Centre (AWRC) and serves as a mentor for multiple startups through its startup accelerator programme. Dr. Al-Tamimi has extensive expertise in machine learning (ML), natural language processing (NLP), and digital health transformation, applying these technologies to develop AI-driven solutions that enhance accessibility, independence, and wellbeing for vulnerable communities. He spearheads several innovative projects supported by EPSRC, Innovate UK, and DSIT, focusing on AI applications for individual wellbeing.  Additionally, Dr. Al-Tamimi is an advocate for explainable and ethical AI, frequently participating as a panellist in discussions on responsible AI development."
@@ -32,11 +32,11 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=oVygx30AAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0003-2459-0298"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -44,12 +44,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/A-Al-Tamimi"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "artamimi"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
